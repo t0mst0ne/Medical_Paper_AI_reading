@@ -1,0 +1,1352 @@
+=== PAGE 1 ===
+PNAS  2024  Vol. 121  No. 29 e2401420121 https://doi.org/10.1073/pnas.2401420121 1 of 12
+RESEARCH ARTICLE | 
+Significance
+This study changes our view of 
+Alzheimer’s disease (AD) initiation 
+and progression. Mutations 
+promoting cerebral beta- amyloid 
+(Aβ) deposition guarantee rare 
+genetic forms of AD. Thus, the 
+prevailing hypothesis has been 
+that Aβ is central to initiation and 
+progression of all AD, despite 
+contrary animal and patient 
+evidence. We show that age- 
+related T cells generate 
+neurodegeneration with 
+compelling features of AD in 
+mice, with distinct T cell functions 
+required for pathological 
+initiation and neurodegenerative 
+progression. Knowledge from 
+these mice was applied to 
+successfully predict previously 
+unrecognized features of human 
+AD and generate tools for its 
+clinical management.
+Competing interest statement: C.J.W. is the author of 
+patents PCT/US2016/049598, WO2017/040594, and 
+PCT/US2019/017879. R.C. and K.L.B. are co- authors on 
+patent PCT/US2019/017879. PCT/US2016/049598 and 
+WO 2017/040594 are licensed by Cedars- Sinai Medical 
+Center to T- Neuro Pharma, Inc. C.J.W. has received salary 
+and ownership interest in T- Neuro Pharma, Inc.
+This article is a PNAS Direct Submission.
+Copyright © 2024 the Author(s). Published by PNAS. 
+This open access article is distributed under Creative 
+Commons Attribution - NonCommercial- NoDerivatives 
+License 4.0 (CC BY- NC- ND).
+1A.P., A.R., and M.J. contributed equally to this work.
+2Present address: Department of Microbiology & Molecular 
+Biology, Brigham Young University, Provo, UT 84604.
+3Present address: Department of Translational Science, 
+A2 Biotherapeutics, Inc., Agoura Hills, CA 91301.
+4To whom correspondence may be addressed. Email: 
+chris@tneuropharma.com.
+This article contains supporting information online at 
+https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.  
+2401420121/- /DCSupplemental.
+Published July 12, 2024.
+NEUROSCIENCE
+PSYCHOLOGICAL AND COGNITIVE SCIENCES
+Antigen- specific age- related memory CD8 T cells induce 
+and track Alzheimer’s- like neurodegeneration
+Akanksha Panwara,1, Altan Rentsendorja,1 , Michelle Jhuna,1, Robert M. Cohenb, Ryan Cordnera,c,2, Nicole Gullc , Robert N. Pechnickd, Gretchen Duvalla,  
+Armen Mardirosa,3, David Golchiana, Hannah Schublooma, Lee- Way Jine, Debby Van Damf,g , Yannick Vermeirenf,h,i , Hans De Reuj ,  
+Peter Paul De Deynf,g,k,l, Jevgenij A. Raskatovl, Keith L. Blacka , Dwain K. Irvina,m , Brian A. Williamsn, and Christopher J. Wheelera,l,m,o,p,4
+Affiliations are included on p. 11.
+Edited by Lawrence Steinman, Stanford University, Stanford, CA; received February 5, 2024; accepted May 23, 2024
+Cerebral (Aβ) plaque and (pTau) tangle deposition are hallmarks of Alzheimer’s disease 
+(AD), yet are insufficient to confer complete AD- like neurodegeneration experimentally. 
+Factors acting upstream of Aβ/pTau in AD remain unknown, but their identification 
+could enable earlier diagnosis and more effective treatments. T cell abnormalities are 
+emerging AD hallmarks, and CD8 T cells were recently found to mediate neurodegen-
+eration downstream of tangle deposition in hereditary neurodegeneration models. The 
+precise impact of T cells downstream of Aβ/pTau, however, appears to vary depending 
+on the animal model. Our prior work suggested that antigen- specific memory CD8 
+T (“hiT”) cells act upstream of Aβ/pTau after brain injury. Here, we examine whether 
+hiT cells influence sporadic AD- like pathophysiology upstream of Aβ/pTau. Examining 
+neuropathology, gene expression, and behavior in our hiT mouse model we show that 
+CD8 T cells induce plaque and tangle- like deposition, modulate AD- related genes, and 
+ultimately result in progressive neurodegeneration with both gross and fine features 
+of sporadic human AD. T cells required Perforin to initiate this pathophysiology, and 
+IFNγ for most gene expression changes and progression to more widespread neurode-
+generative disease. Analogous antigen- specific memory CD8 T cells were significantly 
+elevated in the brains of human AD patients, and their loss from blood corresponded 
+to sporadic AD and related cognitive decline better than plasma pTau- 217, a promising 
+AD biomarker candidate. We identify an age- related factor acting upstream of Aβ/pTau 
+to initiate AD- like pathophysiology, the mechanisms promoting its pathogenicity, and 
+its relevance to human sporadic AD.
+Alzheimer’s disease | T cell | mouse model | neuroscience | biomarker
+Deposits of aggregated amyloid plaques containing beta- amyloid (Aβ) and neurofibrillary 
+tangles (NFTs) comprised of hyperphosphorylated tau (pTau) are the primary neuro­
+pathological hallmarks of Alzheimer’s disease (AD). Aβ deposition precedes that of NFTs 
+in all forms of AD, and rare inherited forms of the disease are due to mutated (AD- mut) 
+genes that promote the deposition of toxic Aβ in the brain. Thus, a prominent hypothesis 
+is that Aβ is central to initiation and progression of all AD. While Aβ deposition clearly 
+plays an important role, evidence that it is sufficient to initiate and/or maintain AD 
+pathogenesis is lacking. For example, laboratory animals expressing one or even several 
+human AD- mut transgenes that guarantee AD in their human carriers fail to exhibit either 
+robust neurodegeneration or NFTs (1, 2). Moreover, targeting Aβ deposition has resulted 
+in hundreds of failed clinical trials, with modest and sometimes controversial clinical 
+efficacy demonstrated in a few trials only recently (3). Finally, up to a third of elderly 
+individuals possess Aβ deposition sufficient for AD diagnosis, yet are cognitively normal 
+and may remain so for life (4). These findings suggest that Aβ requires distinct cofactors 
+to initiate AD. The search for such factors, with occasional exceptions (5), has primarily 
+focused on processes downstream of Aβ. A recent finding, however, documented that a 
+patient harboring a deterministic AD- mut gene normally guaranteeing neurodegeneration 
+by age 45, exhibited no clinical symptoms into their 70s (6). This protection was evidently 
+afforded by a second germline mutation in the ApoE3 gene that disrupts lipid metabolism 
+(7), highlighting the possibility that the pathogenic effects of Aβ may be dominantly 
+inhibited by preexisting physiological processes upstream of Aβ. While the precise nature 
+of such processes remains unknown, identifying them could allow earlier diagnosis and 
+lead to more effective AD treatments.
+Among Aβ- independent factors potentially contributing to AD pathogenesis, CD8 
+T cell abnormalities have recently emerged as some of the most intriguing. Recent studies 
+have verified and extended earlier reports of T cell abnormalities in AD- related conditions, 
+OPEN ACCESS
+
+=== PAGE 2 ===
+2 of 12   https://doi.org/10.1073/pnas.2401420121 pnas.org
+including resident memory CD8 T (T RM) and other memory 
+T cell accumulation in CSF and/or brain of aging and AD- afflicted 
+individuals (8, 9). CD8 T cells within CSF also dysregulate 
+chemokine signaling when cognitive impairment is evident, reg­
+ulate neuronal and synaptic gene expression when they accumulate 
+in the hippocampus, and promote neuroinflammation and cog­
+nitive decline, in transgenic (Tg) mice (10–12). Moreover, T cells 
+increase in areas of AD- mut Tg (AD- Tg) mouse brain and human 
+AD brain with tau neuropathology (10), which correlates with 
+cognitive symptoms in AD (13, 14). Most surprisingly, CD8 
+T cells together with microglia and interferon - gamma (IFNγ), 
+were recently shown to mediate neurodegeneration in tau- transgenic 
+mice (15). Finally, a very recent study on CD8 T cells in AD- Tg 
+mice presented evidence that they actually dampen Aβ/pTau 
+pathology through CXCL16- CXCR6 intercellular communica­
+tion between T cells and microglia (16). Thus, the role of CD8 
+T cells appears variable, at least in transgenic rodents. Moreover, 
+T cell changes in AD are often presumed to follow Aβ deposition. 
+In all of the studies above, for example, T cell abnormalities were 
+examined after AD pathology was established. The potential role 
+of CD8 T cells upstream of Aβ (or tau) has thus not been exam­
+ined. Nevertheless, the potential relationship of tissue- resident 
+CD8 T cells in particular to ApoE- mediated AD risk and/or pro­
+tection makes them especially intriguing in this regard (17).
+T o examine the effect of aging T cells upstream of Aβ/pTau 
+pathology, we recently developed the “hiT” model of rapid CD8 
+T cell aging in young mice. In this model, age- related homeostatic 
+CD8 T cell expansion is mimicked on a much faster time scale 
+(18). This results in morphological, functional, and genotypic 
+changes in homeostatically induced (“hi”) T cells similar to those 
+occurring with age. These changes include human- like predomi­
+nance of CD103+ memory CD8 T cells in the general circulation, 
+and accumulation of a non- Aβ antigen (amyloid precursor pro­
+tein; APP)- specific age- related subpopulation of T cells in the 
+brain. T ransfer of these age- related CD8 T cells from hiT mice 
+into wild- type B6 mice increased human- like amyloid and fibrillar 
+pTau in the brain after percussive brain injury, as well as neuronal 
+marker loss regardless of injury (18). This suggested that age- related 
+CD8 T cells act upstream to promote both Aβ and fibrillar pTau 
+accumulation in a non- AD setting. Here, we examined the rela­
+tionship of age- related CD8 T cells to events upstream of Aβ, and 
+possibly to other aspects of AD pathophysiology, by first interro­
+gating proteinopathy, neurodegeneration, and behavior in the hiT 
+mouse model. We then examined mechanisms whereby hiT cells 
+mediate pathological characteristics using T cells from functional 
+knockout donors as well as RNAseq analysis. Finally, we examined 
+the clinical relevance of antigen- specific and parental CD8 T cell 
+populations to human AD using flow cytometry, tissue staining, 
+and protein analysis in human patients.
+Results
+Creation of hiT Mouse. PBS, or CD8 T cells from mouse wild- type 
+donors were injected into young (6 to 8 wk) B6.Foxn1 hosts (PBS and 
+wt- CD8 groups, respectively). Limited analyses of young B6.Foxn1 
+hosts injected with wild- type CD4 T cells or CD4 plus CD8 T cells 
+together (wt- CD4 and wt- CD8+CD4 groups, respectively), were 
+also performed (SI Appendix, Fig. S1A). Females were exclusively 
+used to avoid male- specific autoimmune disease dynamics, some 
+of which are associated with CD8 T cell homeostatic expansion, 
+in related mouse strains (19, 20). The donor T cells acquire age- 
+related resident memory- like (TRM) phenotype, as well as age- related 
+genotype and function as they expand. CD8 T cells reactive to a non- 
+Aβ epitope on APP then selectively accumulate in the brain of these 
+hiT (for “homeostatically induced T cell”) mice (18). Circulating 
+APP- reactive CD8 TRM cells were rapidly homeostatically expanded 
+in hiT mice (SI Appendix, Fig. S1B), similar to the reported gradual 
+expansion of age- related CD8 TRM cells in aging humans (21).
+Aβ and Neurofibrillary Deposition. We examined T riton- soluble 
+brain extracts as we previously described (22), to assess potentially 
+toxic Aβ in hiT mice by western blot (WB) using 4G8 (human-  and 
+rodent- specific APP/Aβ) and ab14220 (rodent- specific APP/Aβ) 
+antibodies. This revealed relative upregulation of high molecular 
+weight species presumed to be APP and its cleavage products 
+(APPCl) in brains of wt- CD8 group hiT mice 3 and 10 wk after 
+injection (Fig. 1A and SI Appendix, Fig. S2 A and B). Additional 
+isoform-  and species- specific antibodies in ELISA revealed that 
+endogenous Aβ1- 40 but not Aβ1- 42 was relatively increased in 
+wt- CD8 group mice 10 wk postinjection (Fig. 1B), with WBs 
+and tissue staining using 4G8 antibody (recognizing rodent 
+and human Aβ/APP) confirming prominent amyloidosis in the 
+cortex and hippocampus (SI Appendix, Fig. S2B and Fig. 1 C–F, 
+respectively). By 6 mo postinjection, wt- CD8 and wt- CD8+CD4 
+groups exhibited increased Aβ deposition in brain vasculature, 
+whereas wt- CD4 group did not (Fig. 1 D and E and SI Appendix, 
+Fig. S2 C and D), further suggesting CD8 T cells are necessary 
+and sufficient to promote amyloidosis. Aβ plaques in wt- CD8 
+group brains 15 mo postinjection exhibited typical morphology, 
+but exhibited small compact cores at best, were chiefly detergent- 
+soluble (SI  Appendix, Fig.  S3), and were minimally stained by 
+curcumin or ThioS (Fig. 1 C and F).
+Detergent- soluble phospho- tau (pTau) was slightly (30%) but 
+significantly increased at 10 wk postinjection in the wt- CD8 
+group forebrain, while pTau paired helical filaments (PHFs, which 
+mature to form NFTs in AD) were increased nearly fivefold on 
+WBs (Fig. 1 G and H). Starting at 6 mo postinjection, fibril- staining 
+reagents (Gallyas silver, curcumin, and ThioS), each stained cel­
+lular inclusions within the wt- CD8 group hippocampus (Fig. 1 
+I–K and SI Appendix, Fig. S4A), with similar structures seen in 
+simultaneously stained human AD cortex (SI Appendix, Fig. S4B), 
+but not in brains of either AD- transgenic Tg2576 (AD- Tg) mice 
+or AD- Tg rats (Fig. 1 I–K) (22). Tissue immunofluorescence (IF) 
+for pTau, Aβ, and DAPI prior to Gallyas staining revealed these 
+structures were derived from pTau + neurons with intact nuclei, 
+and that silver staining was superimposable with that of pTau but 
+not Aβ (Fig. 1L). These data suggest that the predominant T cells 
+in hiT mice (which resemble resident- memory phenotype CD8 
+T cells or CD8 TRM) promote coordinated and robust deposition 
+of Aβ and fibrillar NFT- like inclusions in the mouse brain.
+Immune and Neuroinflammatory Infiltration. Additional images  
+support our previous findings that CD8 T cell infiltration, micro­
+gliosis, and astrogliosis (SI Appendix, Fig. S5 A–C, D and E, and 
+F–I, respectively), are exclusively seen in wt- CD8 group mice (18). 
+Cerebral plaques in these animals were closely associated with 
+gliosis, as is common in human AD (SI Appendix, Fig. S5 H and I).  
+In brain regions containing both T and glial cells, Aβ plaque burden  
+correlated more strongly with hippocampal CD8 T cell levels 
+than astrocytic or microglial levels (SI Appendix, Fig. S5 J –L), 
+suggesting a unique relationship between CD8 T cells and amyloid  
+pathology.
+Mechanisms of hiT Mouse Neuropathology. T o examine mechanisms 
+of hiT cell mediated neuropathology, we injected PBS, or CD8 T cells 
+from wild- type, Perforin 1- deficient, or IFNγ- deficient donors into 
+young (6 to 8 wk) B6.Foxn1 hosts (PBS, wt- CD8, PrfKO- CD8, 
+and IfnγKO- CD8 groups, respectively), and analyzed neuropathology 
+
+=== PAGE 3 ===
+PNAS  2024  Vol. 121  No. 29 e2401420121 https://doi.org/10.1073/pnas.2401420121 3 of 12
+by ELISA or WB, as well as by tissue staining. CD8 T cells from all 
+donor strains expanded in circulation of B6.Foxn1 recipients (18). In 
+marked contrast to wt- CD8 or IfnγKO- CD8, however, PrfKO- CD8 
+brains exhibited no significant increase in Aβ, plaques, pTau, PHFs, or 
+NFT- like inclusions in any region. At 15 mo postinjection, Aβ1- 40 
+was significantly elevated only in the wt- CD8 group brain by ELISA 
+(Fig. 2A). Nevertheless, Aβ plaques and silver- stained neurons were 
+evident within the entorhinal cortex and hippocampus by tissue IF in 
+both wt- CD8 and IfnγKO- CD8 groups (Fig. 2B). Tau PHFs were 
+also only elevated in wt- CD8 brains at 15 mo by WB (Fig. 2C), but 
+Gallyas tissue staining of IfnγKO- CD8 brains similarly revealed NFT- 
+like inclusions in the entorhinal cortex and hippocampus, but not in 
+the cingulate cortex as in wt- CD8 group brains (Fig. 2D). Silver- stained 
+neurons in IfnγKO- CD8 brain were derived from pTau+ neurons by 
+sequential staining as shown for wt- CD8 brain (Fig. 2E). Aβ plaques in 
+wt- CD8 and IfnγKO- CD8 group brains were of similar morphology 
+(Fig. 2 F and G), but those in the IfnγKO- CD8 group were significantly 
+smaller (Fig. 2 F and H) and appeared only in the entorhinal cortex 
+and hippocampus but not in the cingulate cortex as in the wt- CD8 
+group (Fig. 2B). These data suggested that blocking Perforin production 
+completely prevented all overt AD- like pathology, while blocking IFNγ 
+production led to smaller Aβ plaques and to limited distribution of 
+NFT- like structures reminiscent of early- stage AD (23).
+Neuronal Loss and Cerebral Atrophy.  T o determine whether 
+neurodegeneration was evident in hiT mice, we stained and 
+counted neurons positive for the neuron specific nuclear protein, 
+NeuN, in CA1, CA2, and CA3 of the hippocampus. Brain 
+mass was also assessed, and NeuN and synaptic protein signals 
+quantified on WBs. Loss of NeuN+ cells in wt- CD8 group mice 
+was visually apparent in hippocampal immunostains (Fig. 3 A and 
+B), and was verified by NeuN+ cell counts at 15 mo postinjection 
+(Fig. 3C). Loss of brain mass in the wt- CD8 group progressed 
+from 5% at 6 mo, to 10% 15 mo postinjection (Fig.  3D), 
+comparable to terminal brain atrophy in human AD (24). WBs 
+of brains 15 mo postinjection confirmed proportional decreases 
+in NeuN, the postsynaptic submembrane protein, drebrin, and 
+the presynaptic vesicle protein, Synaptophysin (Fig. 3 E and F). 
+Loss in brain mass correlated with decreased NeuN within PBS 
+and CD8 injection groups, establishing a direct relationship 
+A
+B G H
+C
+DE
+F
+K
+L
+J
+I
+Fig. 1.   Amyloid and Tau pathology. WBs of APP (100 kDa) and its cleavage products (APP Cl; <100 kDa) in the brain using antibody 4G8 (upper blot; 10 wk 
+postinjection) and ab14220 (lower blot; 3 wk postinjection) after T cell injection (→) into recipients (A). Expanded versions of these WBs are shown in SI Appendix, 
+Fig. S2 A and B. Forebrain Aβ1- 40 ELISA in B6.Foxn1 recipients of PBS of wt- CD8 T cells 15 mo postinjection (B). 4G8- positive Plaques ± pTau/curcumin staining 
+in brains of the above mice, and in 18- mo- old Tg2576 (AD- Tg) brain (C). ThioS staining of vasculature in the wt- CD8 group cortex (D), and 4G8 staining in the 
+periventricular region (E) 6 mo postinjection. Representative plaque morphology and size in the wt- CD8 brain 15 mo postinjection (F). Forebrain pTau and Tau 
+PHF WBs 10 wk postinjection (G), and compiled pTau and PHF values (H). Gallyas/silver- stained cells in hiT mouse groups 6 mo after i.v. control/cell injection, and 
+in 14- mo- old Tg2576 (AD- Tg) mice (I). Hippocampal sections from the indicated groups (all B6.Foxn1 recipients, except AD- Tg = Tg2576 mice), were stained with 
+4G8 (Aβ) and curcumin 6 mo postinjection, or at 14 mo of age for AD- Tg (J). Right- facing arrows highlight Aβ deposits with no curcumin costaining. Up- facing 
+arrows depict colocalized Aβ and curcumin deposits. Down- facing arrows depict curcumin+ structures with no Aβ costaining, i.e., nonamyloid fibrillar deposits. No 
+DAPI was used; blue background is provided for anatomical context. ThioS staining of dentate gyrus in the same hiT mice (PBS and wt- CD8 group mice 6 mo after 
+control/cell injection), and in 20- mo- old AD- Tg rats (K). Individual and overlaid images of sequential 4G8 (green)/pTau (red) → Gallyas (black) stains in the wt- CD8 
+group hippocampus 15 mo postinjection (L). Plots depict averages ± SEM. *P < 0.05, **P < 0.01, ***P < 0.005 by the two- sided T- test, relative to the PBS group.
+
+=== PAGE 4 ===
+4 of 12   https://doi.org/10.1073/pnas.2401420121 pnas.org
+between brain atrophy and neuronal loss (Fig. 3G). Significant 
+brain loss was not observed in wt- CD4 group but was evident in 
+wt- CD8+CD4 group, suggesting that CD4 T cells fail to either 
+mediate or mitigate neuronal loss, or modulate its induction by 
+CD8 T cells (SI Appendix, Fig. S6A).
+Severe Cognitive Impairment. We assessed cognitive performance 
+in hiT mice using three independent tests for learning and 
+memory: contextual and cued FC, SAB in the Y- maze, and BM 
+performance. Open- field testing (OFT) was performed prior to 
+each of these three behavioral tests to rule out influences due to 
+injection- associated mobility variations (Fig. 3H and SI Appendix, 
+Fig. S7A), as well as to monitor motor dysfunction evident in 
+other T cell- associated neurological conditions such as multiple 
+sclerosis.
+Significant motor deficits occurred with age but did not distin­
+guish any groups including the PBS group from others (SI Appendix, 
+Fig. S7A). In contrast, contextual FC was reduced in the wt- CD8 
+group relative to PBS controls 6 mo after T cell injection, with 
+both contextual and cued learning impaired at 11 mo (Fig. 3I). 
+These results suggest that CD8 T cells in hiT mice alone mediate 
+early damage to the hippocampus (required for contextual FC), 
+with additional later damage to the amygdala (involved in cued 
+FC). This progressive behavioral deficit pattern mimics one typical 
+of cognitive decline in human AD (25). Intriguingly, only cued 
+learning was impaired in wt- CD8+CD4 but not wt- CD4 group 
+mice at the earlier time point (SI Appendix, Fig. S6B), suggesting 
+that CD4 T cells modulate whether the hippocampus or amygdala 
+is damaged first in hiT mice, but neither induce cognitive decline 
+themselves nor alter the ability of CD8 T cells to do so.
+SAB in the Y- maze is a well- established assay for hippocampal 
+integrity (26, 27), based on the preference of mice to alternately 
+explore two alleys. The lowest possible score (50%) indicates ran­
+dom alley choice, due to either no working memory of the previ­
+ous alley entered, or complete lack of preference. SAB testing 12 
+mo postinjection revealed a score of 55 to 56% in PBS controls, 
+comparable to wild- type mice (28), but was reduced to 50% in 
+the wt- CD8 group (Fig. 3J). This is consistent with an absence of 
+working memory in the wt- CD8 group.
+BM testing was performed at 14 mo postinjection and repre­
+sents a more focused measure of hippocampus- dependent learning 
+and memory. This test is not confounded by decreased ability to 
+swim, or stress- induced behaviors caused by swim tests (29). 
+Relative to PBS controls, wt- CD8 mice showed no ability to learn 
+the maze over the initial 4- d training period (Fig. 3K). Given this 
+initial learning deficit, it was not surprising that wt- CD8 mice 
+were also profoundly impaired in subsequent memory retention 
+and reversal phases of the maze (Fig. 3 L–N).
+Contextual FC at 6 and 11 mo correlated with brain mass 
+(SI Appendix, Fig. S7B), as did latency to solve the BM (SI Appendix, 
+Fig. S7C), further underscoring the relationship of cognitive decline 
+to physical neurodegeneration. Poor performance of hiT mice on 
+BM (total latency below median = BMlo) also exhibited significant 
+association with increased pTau PHFs exclusively (SI Appendix, 
+Fig. S7D), but not with any form of Aβ or detergent- soluble pTau 
+(SI Appendix, Fig. S7 E and F).
+Taken together, these three independent tests suggest that fully 
+functional CD8 T cells in hiT mice mediate severe, progressive 
+impairment of hippocampus- dependent learning and memory 
+independent of locomotor activity, and that both the progressive 
+15 mos
+A
+4G8B urden
+B
+15 mos
+C
+Silver-stained cells
+D
+A/g69pmol/g brain
+% fluorescence
+TauW Bs ignal
+% posn eurons
+A/g6940
+A/g6942
+pTau
+TauP HF
+E
+Ifn/g74/g74KO-CD8
+F
+amorphous       round               hollow   
+4G8-pTau-DAPI
+G H
+amorph round ho
+llow
+0
+20
+40
+60
+% plaque morphology
+wt-CD8
+IfnγKO-CD8
+wt-CD8
+IfnγKO-
+CD
+8
+0
+25
+50
+75
+100
+125
+150
+plaque diameter (/g80m) /uni2731/uni2731/uni2731
+Fig. 2.   Amyloid and Tau pathology in hiT mice with T cell functional inhibition. Compiled Aβ ELISA (A), 4G8 plaque burden (B) pTau and PHF signal (pS199/202 
+antibody [Invitrogen] used for pTau in WBs and tissue staining; Phospho- PHF- tau pSer202+Thr205 Antibody [AT8] used for Tau PHF in WBs) (C). Gallyas silver- 
+stained cells in PBS, wt- CD8, PrfKO- CD8, and IfnγKO- CD8 hiT recipients 15 mo after control/cell injection and in 18- mo- old Tg2576 (AD- Tg) brain regions (D). Gallyas+ 
+neurons from the IfnγKO- CD8 group cortex (E). Representative plaque morphology and size (F and G) in IfnγKO- CD8 brain 15 mo postinjection, and comparison 
+to plaque size in the wt- CD8 group (H). Plots depict averages ± SEM. *P < 0.05, **P < 0.01, ***P < 0.005 by the two- sided T- test, relative to the PBS group.
+
+=== PAGE 5 ===
+PNAS  2024  Vol. 121  No. 29 e2401420121 https://doi.org/10.1073/pnas.2401420121 5 of 12
+pattern of cognitive loss and its association with cerebral pathology 
+in the hiT model mirrors features typical of clinical AD (30).
+Neuronal and cognitive loss differences were also evident 
+between wt- CD8 and KO- CD8 groups: Neither IfnγKO - CD8 
+nor PrfKO- CD8 brains showed significant evidence of neuronal 
+loss, and both were indistinguishable from PBS controls in level 
+of spontaneous alternation (Fig. 3J). IfnγKO- CD8 mice, however, 
+appeared initially similar to PBS controls in the training sessions 
+of the BM, but became more similar to the impaired wt- CD8 
+group mice at many of the later stages (Fig. 3 K–N). This suggests 
+that both IFNγ and PRF1 deficiency eliminates robust neuronal 
+loss and either subdues cognitive decline (in IfnγKO- CD8 group) 
+or eliminates it altogether (in PrfKO- CD8 group).
+Reduction of Doublecortin (DCX) + Neurons in hiT Mice.  The 
+dramatic impact of PRF1 deficiency on all aspects of AD- like 
+neurodegeneration is most consistent with a direct role for lytic 
+elimination of neural cells by CD8 T cells in the hiT mouse 
+Latency( sec)
+activity
+normalized freezing
+%s pont alt
+%m arkera rea
+relb rain mass
+NeuN+ cells
+GFAP-NeuN
+NeuN
+SYNP
+Drebrin
+GAPDH
+PBS    wt-CD8
+brain mass
+NeuN
+Drebrin
+SYNP
+350
+400
+450
+500
+550
+0.11 10
+r= 0.95
+P <0 .05
+NeuN WB signal
+Brainm ass( mg)
+A B C D
+E F G
+H I J
+K L M N
+Fig. 3.   Neurodegeneration and cognition in nude mice harboring hiT cells. Cell/control recipients in all panels are B6.Foxn1 exclusively. NeuN and GFAP staining 
+(A and B), and cell counts in the hippocampus, 15 mo after cell/control injection (C). Brain atrophy over time in PBS and wt- CD8 groups (mass normalized to PBS 
+controls at each time point; D). Representative forebrain westerns (E), and GAPDH- normalized NeuN, drebrin, and synaptophysin (SYNP) western signals (F).  
+Correlation of NeuN with brain weight (G). Plots depict averages ± SEM. *P < 0.05, ** P < 0.01, ***P < 0.005 by the two- sided T- test, relative to the PBS group. 
+Representative open- field test at 13 mo (H). Fear conditioning (FC) over time (I), and spontaneous alternation behavior (SAB) at 12 mo (J). Barnes maze (BM) 
+learning/training (K), retention (L), and reversal (M and N) phases, at 14 mo (black, colored symbols = P relative to PBS, wt- CD8, respectively). Plots depict averages 
+± SEM. *P < 0.05, **P < 0.01, ***P < 0.005 by two- sided ANOVA (panel K) or two- sided T- test (all others), relative to the PBS group unless otherwise indicated.
+
+=== PAGE 6 ===
+6 of 12   https://doi.org/10.1073/pnas.2401420121 pnas.org
+model. CD8 T cells normally reside in the brain, including 
+those of C57BL/6 mice (31). These cells require expression of 
+MHC I on their targets to eliminate them in an antigen- specific 
+manner. Most neuronal lineage cells are MHC I- negative unless 
+induced by cytokines such as IFNγ, but catecholaminergic 
+neurons within the locus coeruleus (32) and neural progenitors 
+constitutively express MHC I (33). T o determine whether 
+these cells were eliminated early and independent of IFNγ, we 
+examined Doublecortin(DCX)- positive neural progenitors within 
+the subventricular zone (SVZ) of mature (6- mo- old) wild- type 
+C57BL/6 mice, as well as in wt- CD8 and IfnγKO- CD8 group 
+hiT mice 15 mo postinjection. CD8 T cells were observed in close 
+proximity to DCX+ neural progenitors in the SVZ rostral migratory 
+stream of wild- type C57BL/6 mice, consistent with the possibility 
+that CD8 T cells might directly eliminate these cells under disease 
+conditions (SI Appendix, Fig. S8A). Accordingly, DCX+ neurons 
+were dramatically decreased in SVZ and throughout the brain in 
+wt- CD8 and IfnγKO- CD8 group hiT mice (SI Appendix, Fig. S8 
+B and C). Thus, even in the absence of more widespread neuronal 
+loss (as in the IfnγKO - CD8 group), CD8 T cells in hiT mice 
+promoted DCX + neural progenitor elimination. This suggests 
+that neuronal lineage cells that constitutively express MHC I are 
+eliminated first by hiT cells.
+RNAseq Analysis on Brains of hiT Mice. T o gain further mechanistic 
+insights into how CD8 T cells in hiT mice promote AD- like 
+pathology, we performed RNAseq analysis on mouse forebrains 
+from experimental and control groups. Focusing on changes ≥10% 
+relative to PBS, each of wt- CD8, IfnγKO- CD8, and PrfKO- CD8 
+groups exhibited significant upregulation of the T cell- specific 
+marker, CD3ε, while they also altered 1,947, 309, and 1,901 
+additional transcripts, respectively (SI Appendix, Fig. S9 A–J). Since 
+upregulation of CD3ε was at odds with our previous observation 
+that CD8 T cells were undetectable in PrfKO- CD8 group brain 
+by tissue staining (18), we reexamined T cells in this group using 
+potentially more sensitive flow cytometric analysis (SI Appendix, 
+Fig. S10). We confirmed significant accumulation of CD8 T cells 
+in PrfKO- CD8 group brain relative to control B6.Foxn1, albeit 
+lower than in wild- type C57BL/6 controls previously reported as 
+comparable to the wt- CD8 group (SI Appendix, Fig. S9 A  and 
+B) (18). Thus, all groups injected with CD8 T cells harbored 
+elevated levels of those cells in the brain, consistent with their 
+CD8ε mRNA upregulation. This provides relevant context for 
+further gene expression analysis.
+T wo gene expression pathways were prominently altered in the 
+wt- CD8 group exclusively: BioPlanet AD and a group of largely 
+overlapping pathways related to cytoplasmic ribosomal proteins and 
+translation (SI Appendix, Figs. S9H and S11 A–C). In addition, a 
+group of largely overlapping pathways related to electron transport 
+chain and oxidative phosphorylation was up- regulated in both 
+wt- CD8 and IfnγKO- CD8 but not PrfKO- CD8 brain (SI Appendix, 
+Figs. S9H and S11 A–C), and as such was uniquely associated with 
+both delayed/arrested and later AD- like neuropathology. Electron 
+transport chain-  and ribosomal protein- related pathways are known 
+to be involved in CD8 T cell- mediated effector activity as well as 
+AD pathophysiology, and IFNγ is also known to modulate riboso­
+mal proteins (34). Within cell type- specific genes, only neuronal 
+genes exhibited net upregulation, whereas most nonneuronal genes 
+were down- regulated (Fig. 4A). Moreover, multiple pathways impli­
+cated in AD were affected in the wt- CD8 group (SI Appendix, 
+Figs. S9 H–J and S12). T o further determine relevance of these 
+modest changes to AD, we focused on 82 genes identified in prior 
+genome- wide epidemiological studies (“GWAS genes”) (35) whose 
+AD- associated variants often manifest as subtle expression changes. 
+Among this GWAS subset, 14, 2, and 11 genes were significantly 
+altered in wt- CD8, IfnγKO- CD8, and PrfKO- CD8 groups, respec­
+tively, with 8 and 1 of these also altered in wt- CD8 and IfnγKO- CD8 
+groups respectively, relative to PrfKO- CD8 (P = 0.034; two- sided 
+Fisher’s exact test; Fig. 4B). Known functions of GWAS genes 
+altered in wt- CD8 and PrfKO- CD8 brains included multiple bio­
+logical pathways implicated in AD, including Aβ/Tau pathology 
+gene expression and cell signaling, endocytosis, inflammation/
+immunity, and lipid/cholesterol metabolism (SI Appendix, Fig. S9 
+H and J), whereas those altered in IfnγKO- CD8 brains covered a 
+more restricted subset involved in Aβ/Tau pathology and inflam­
+mation/immunity. This supports a model in which Perforin controls 
+a critical disease- initiating event reflected by electron transport chain 
+gene modulation, whereas IFNγ modulates most other gene expres­
+sion risk factors that may worsen disease pace, assure disease pro­
+gression, and/or increase disease severity (Fig. 4C).
+hiT Cell Metrics in Human AD.  Given the varied impact of CD8 
+T cells on different rodent models of hereditary neurodegeneration, 
+it was imperative that the potential impact of hiT analogues was 
+examined in human patients. We first examined levels of the 
+larger “parental” memory/aging (KLRG1 +) CD8 population in 
+blood, and then the APP- specific KLRG1+ CD8 subpopulation 
+derived from it, by flow cytometry in HLA- A2+ individuals 
+from two separate cohorts (Fig. 5 A–F, with gating parameters 
+in SI Appendix, Figs. S13 and S15A). As expected, the parental 
+KLRG1+ CD8 population increased with age while KLRG1-  CD8 
+cells did not (SI Appendix, Fig. S14). The KLRG1+ subpopulation 
+also exhibited slight expansion in age- related cognitive decline or 
+MCI- AD (Fig. 5 B and D; and SI Appendix, Fig. S15 B and C,  
+with representative gating shown in SI  Appendix, Fig.  S15A). 
+By contrast, APP- specific KLRG1+ CD8 T cells were markedly 
+decreased in MCI and/or AD (Fig. 5 C and D), and this trend was 
+maintained in both females and males (SI  Appendix, Fig.  S16 A and B).  
+The decrease in APP- specific KLRG1+ CD8 T cells correlated 
+with poor cognitive performance in both cohorts independent of 
+age (Fig. 5 E and F), exhibiting a linear correlation in the cohort 
+subjected to the more sensitive MoCA test (Fig. 5E).
+Cytolytic and antigen- specific T cell markers in AD brains were 
+next examined (Fig. 5 A and G–J). Upregulation of Perforin1 in 
+the AD brain was evident in two independent patient cohorts, 
+corresponded with CD8 upregulation on WBs, and exhibited the 
+expected punctate (endocytic) cellular pattern by tissue IF (Fig. 5 
+G and H). Similarly, T cells stained by CD8 and APP- specific 
+pHLA multimers were more prevalent by tissue IF in the AD brain 
+from the UCD cohort, despite no prescreening of specimens for 
+HLA- A2 to which the APP- specific multimer binds (Fig. 5 I and 
+J). Taken together, these data suggest that parental KLRG1+ CD8 
+T cells accumulate with aging in blood. By contrast, APP- specific 
+KLRG1+ CD8 T cells in blood decrease in proportion to cognitive 
+decline in AD and prodromal conditions, just as they accumulate 
+in the AD brain.
+Decreased APP- specific KLRG1+ CD8 T cells in blood corre­
+lated significantly with reduced Aβ1- 42 and increased total Tau 
+(but only marginally with p- tau181) in CSF within the largest 
+patient cohort (UA; Fig. 6A), suggesting correspondence with 
+existing AD biomarkers. Levels of parental KLRG1+ CD8 T cells 
+also correlated uniquely with CSF Aβ1- 42 in AD patients inde­
+pendent of age (Fig. 6B). While neither parental nor APP- specific 
+CD8 cells correlated linearly with MMSE (as with MoCA) (Fig. 6 
+A and B), the latter did exhibit a correlation with hi/lo MMSE 
+score (Fig. 5F). The lower sensitivity of MMSE vs. MoCA in 
+detecting cognitive impairment may account for this difference 
+(36). Overall, these trends suggested association of age- related 
+
+=== PAGE 7 ===
+PNAS  2024  Vol. 121  No. 29 e2401420121 https://doi.org/10.1073/pnas.2401420121 7 of 12
+CD8 T cell dynamics with some of the most specific established 
+AD biomarkers, hinting at potential AD biomarker utility for 
+both parental CD8 TRM and APP- specific subpopulations.
+T o test this, we first examined publicly accessible data for multiple 
+CD8 TRM markers in blood from independent patient cohorts 
+(CD3D/E, TCRZ, CD8A/CD8B, CD103, CD122, CD127, 
+CD44, as available in database). Using GFAP as an up- regulated 
+standard (SI Appendix, Fig. S17 A and B), or simply compared to 
+normal aging controls (SI Appendix, Fig. S17 C and D), we verified 
+significant upregulation of multiple CD8 TRM markers at various 
+stages of AD in two independent cohorts, with CD8 and TCRZ 
+genes up- regulated at the earliest stage of AD in a severity- graded 
+cohort (SI Appendix, Fig. S17B). We separated the largest of these 
+cohorts into T cell high and low groups based on median CD3 
+expression to exclude patients with age- related T cell lymphopenia, 
+and excluded those under 65 to eliminate potentially confounding 
+early- onset AD patients and young controls (SI Appendix, Fig. S6D). 
+Comodulation of CD103, CD44, and CD8A as a group, as well 
+as levels of CD103 alone, exhibited intriguing biomarker potential 
+in ROC plots (Fig. 6C). In addition, APP- specific KLRG1+ CD8 
+T cell levels quantified by flow cytometry exhibited even better 
+biomarker potential than CD8 TRM genes (Fig. 6D), corresponding 
+better to MCI- AD than the highly touted plasma biomarker, 
+pTau- 217 (SI Appendix, Fig. S17 A–C), corresponded to AD itself 
+(37). This demonstrates that the APP- specific CD8 T cell subpop­
+ulation and its parental KLRG1+ population are uniquely modu­
+lated in AD, and suggests that their levels may be useful and 
+potentially superior disease biomarkers.
+Discussion
+The hiT mouse model demonstrated several key features reminis­
+cent of AD in humans. These included coupled accumulation of 
+amyloid plaques and NFT- like fibrillar inclusions in tau+ neurons, 
+as well as robust neuronal loss and profound cognitive decline, 
+each demonstrated by at least three separate methodologies. 
+B
+A
+C
+3-PBS
+16-PBS
+4-PBS
+9-PBS
+11-wtCD8
+13-wtCD8
+12-wtCD8
+15-wtCD8
+9-PBS
+16-PBS
+3-PBS
+4-PBS
+3-PBS
+16-PBS
+4-PBS
+9-PBS
+6-Ifn/g74/g74KO-CD8
+7-Ifn/g74/g74KO-CD8
+10-Ifn/g74/g74KO-CD8
+8-Ifn/g74/g74KO-CD8
+1-Prf1KO-CD8
+14-Prf1KO-CD8
+2-Prf1KO-CD8
+wt-CD8 Ifn/g74/g74KO-CD8 Prf1KO-CD8
+Fig. 4.   Gene expression changes in the hiT mouse brain. RNAseq analysis on hiT and control forebrains. Most cell type- specific genes were down- regulated with 
+the exception of neuron- specific genes (A). Differentially regulated genes among 84 AD- associated loci from GWAS; bolded black font depicts genes uniquely 
+regulated in each group (B). Mechanistic model of gene, pathway, and disease induction by hiT cells based on combined pathological, knockout, and gene 
+expression analysis (C). Abbreviations: CD8, cluster of differentiation antigen 8; Peptide Ag, peptide antigen; APP, Amyloid Precursor Protein; MHC I (HLA), major 
+histocompatibility complex class I protein (Human Leukocyte Antigen); PRF1, Perforin 1 protein; IFNγ, Interferon- gamma (proinflammatory) cytokine; GZMB, 
+Granzyme B (lytic) protein.
+
+=== PAGE 8 ===
+8 of 12   https://doi.org/10.1073/pnas.2401420121 pnas.org
+This combination of AD- like features has not previously been 
+induced in animal models by a single factor or transgene, as 
+rodents typically fail to develop either NFT- like inclusions or 
+robust neuronal loss without the addition of transgenes unrelated 
+to human AD (1, 38, 39). hiT mice also exhibited finer features 
+often seen in human AD, including cognitive loss progressing 
+from hippocampus-  to amygdala- dependent tasks over time (25), 
+progressive brain atrophy related to neuronal loss, unique associ­
+ation of cognitive loss with fibrillar tau pathology (30), and mod­
+ulation of multiple risk- associated genes.
+Mechanistically, Perforin 1 in CD8 T cells was required for all 
+aspects of neurodegenerative pathology, with the exception of most 
+gene expression alterations. While this potentially involved the 
+target- lysis function of Perforin in T cells, we’d previously reported 
+that Perforin also precluded the accumulation of T cells in brains 
+of hiT mice (18), a finding inconsistent with the minimal impact 
+on gene expression Perforin knockout conferred on hiT mouse 
+brains. Follow- up analysis showed that Prf1KO CD8 T cells did 
+in fact accumulate and remain in hiT brains long term, but at lower 
+levels than wild- type CD8 T cells. While this offers an explanation 
+for the changes in brain gene expression seen in Prf1KO- CD8 
+group mice, it does not discount the possibility that lower levels 
+of brain T cells could be a contributing factor in the lack of 
+neuropathology observed in this group, particularly given that 
+Perforin deficiency has been implicated in clinical disorders of 
+T cell tissue homeostasis previously (40).
+By contrast to Perforin 1, IFNγ in CD8 T cells promoted wide­
+spread neuronal loss and cognitive decline in hiT mice and 
+increased the distribution and size of amyloid plaques. This par­
+allels the impact of this cytokine on mouse models of amyloidosis 
+(41). On a molecular level, Perforin1 is known to promote mito­
+chondrial ROS and oxidative stress (very early events in AD) by 
+facilitating Granzyme- mediated disruption of the electron trans­
+port chain in target cells (42, 43). Perforin 1 also promotes inter­
+nalization of Aβ in neurons (44). IFNγ on the other hand is a 
+well- known proinflammatory effector, as well as a potent modu­
+lator of gene expression in cells expressing its receptor (45). The 
+distinct involvement of these two genes is thus consistent with 
+Perforin- mediated attack of neurons by hiT cells, which simulta­
+neously initiates limited neurodegeneration, mitochondrial oxi­
+dative stress, and inflammatory cytokine production in the brain. 
+IFNγ accelerates progression of the neuropathology, likely through 
+induction of MHC I and modulation of multiple risk- associated 
+genes. CD4 T cells appear to play a dispensable role in induction 
+and progression of neuropathology in hiT mice, but appear to 
+subtly influence the brain region damaged by CD8 hiT cells, to 
+CTR
+L
+MCI 
+-no
+rm bi
+o
+MCI - A
+Dbio AD
+0
+20
+40
+60
+80
+100
+% KLRG1+ CD8T cells
+/uni2731/uni2731
+/uni2731
+/uni2731
+CD
+8
+KL
+RG1+ CD
+8
+KLRG1-
+CD8
+Ag-specifi
+c K
+LRG1
++CD8
+0
+10
+20
+30
+40
+% PBMC
+cogn normal
+age-relc ognd ecline
+mild cogn impaired( MCI)
+* *
+*
+0
+2
+4
+6
+8
+10
+12
+14
+20 25 30
+MOCA score
+%A PP-specK LRG1+C D8 Tc ells r= 0.828
+P =0 .003
+D
+COHORT 1
+Blood,
+flow
+cytometry
+U. Antwerp( b, c, f)
+CSMC (d,e )
+COHORT 3
+Brain,
+Westernb lot,
+tissueI F
+UC Davis( g-i)
+W. LosA ngeles VA (g,h )
+COHORT 2
+Cognitive
+testing
+CSMC (e)
+U. Antwerp( f)
+CTRL
+MCI 
+- n
+orm bi
+o
+MCI 
+-ADbio AD
+0
+5
+10
+15
+20
+25
+% pathogenic aged CD8T cells
+P =0 .00001
+P =0 .00008
+P =0 .02
+G
+normal
+AD
+0
+1
+2
+3
+4
+%A reaP RF1
+%APP(471-479)-specificTcell s
+no
+rmal
+AD
+0
+10
+20
+30
+40
+50
+0
+2
+4
+6
+8
+10
+12
+14
+20 40 60 80
+AGE
+A
+r=  -0.146
+P =0 .687
+%A PP-speciﬁc CD8T cells
+37 kDa
+75 kDa
+*
+*********
+* *
+%A PP-specK LRG1+C D8 Tc ells
+%K LRG1+ CD8 Tc ells
+% APP-specific
+KLRG1+ CD8 Tc ells
+BC
+%A PP-specific
+KLRG1+ CD8T cells
+E
+MoCA score AGE
+% PBMC
+% APP-specific
+CD8T cells
+MMSE
+< 2
+5
+MM
+SE
+> 24
+0
+5
+10
+% APP-specific
+CD8T cells( -neg ctrl)
+P =0 .03
+AGE < 
+76
+AG
+E > 75
+0
+5
+10
+P =0 .08F
+%A reaP RF1
+H IF UCDp atients WB WLAVA patients
+I
+CTRL
+AD
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+*****
+CSMC patients (MCI)U Ap atients( AD)
+CSMC patients
+UA patients UA patients
+J IF UCDp atients
+Fig. 5.   hiT parameters in human Alzheimer’s. Patient cohorts: University of Antwerp = “UA”; Cedars- Sinai Medical Center = “CSMC”; University of California, Davis 
+= “UCD”; West Los Angeles Veteran’s Administration Hospital = “WLAVA” (A). KLRG1 + (B) and APP(471–479)/HLA- A2- reactive KLRG1+ (C) CD8 T cells in CTRL, MCI ± 
+CSF AD biomarkers (MCI, MCI–AD), and verified Alzheimer’s (AD) blood. T cell subpopulations vs. MoCA score (D), and correlation of APP(471–479)/HLA- A2- reactive 
+KLRG1+ CD8 with Mini Mental State Exam (MMSE) score and age (with negative pHLA multimer staining subtracted; significance of both APP- specific T cells and 
+age with MMSE score was increased without such subtraction, with P = 0.01 and 0.02, respectively) (E and F). PRF1 WB and IF representative examples of PRF1 
+staining in presumptive vesicles with or without (arrows) costained Aβ ( G), with compiled IF and WB quantifications in age- matched CTRL and AD brains (H).  
+Representative APP(471- 479)/HLA- A2- reactive CD8 staining (I) and compiled quantification (J) in the brain. Plots depict averages ± SEM. *P < 0.05, ** P < 0.01,  
+***P < 0.005, ****P < 0.001 by the two- sided T- test, relative to CTRL unless otherwise indicated.
+
+=== PAGE 9 ===
+PNAS  2024  Vol. 121  No. 29 e2401420121 https://doi.org/10.1073/pnas.2401420121 9 of 12
+the extent that it resembles a distinct AD behavioral subtype (46). 
+While intriguing, rigorous validation of this working molecular 
+mechanism requires further study.
+The apparent arrest of IfnγKO - CD8 group mice at a stage 
+resembling early AD made them attractive to examine potential 
+targets of T cell elimination in the absence of more widespread 
+neuronal loss. CD8 T cells require MHC I on target cells to rec­
+ognize and destroy them, but only small anatomically restricted 
+subpopulations of neuronal lineage cells constitutively express 
+MHC I without induction by cytokines such as IFNγ. Such cells 
+include catecholaminergic neurons within locus coeruleus (32), 
+among the earliest sites affected by AD neuropathology (47). 
+Neuroblasts mediate adult neurogenesis, a process thought to be 
+critically impaired very early in AD, and also constitutively express 
+MHC I (33, 48). The elimination of Doublecortin (DCX)+ neu­
+roblasts by CD8 T cells in the IfnγKO- CD8 group suggests that 
+neuronal lineage cells constitutively expressing MHC I are initial 
+targets of CD8 T cell elimination in the hiT model, while more 
+widespread neurodegeneration requires production of IFNγ, a 
+known inducer of MHC I on distinct neural cells (45).
+While several aspects of the hi T model paralleled features of 
+human AD, it is not a perfect phenocopy of the disease. For example, 
+Aβ1–40 and diffuse plaques predominate in hiT mice, whereas 
+Aβ1–42 and compact plaques typically predominate in most forms 
+of human AD. In addition, “ghost” tangles—remnants of NFTs in 
+dead neurons—were not seen in hiT mice. Both these differences 
+may well be explained by hiT mouse pathology occurring in the 
+context of the endogenous mouse rather than transgenic human 
+Aβ-  and/or tau- encoding genes. Rodents, for example, are known 
+to be deficient in clearing endogenous Aβ1–42, and exhibit Aβ1–40 
+preference in amyloid fibril formation (49, 50), which could favor 
+diffuse plaque and Aβ1–40 predominance in hiT mice. Similarly, 
+the absence of ghost tangles is likely due to the virtual absence of 
+the ghost tangle- promoting isoforms of MAPT , the gene encoding 
+tau proteins, in adult mice (51). In addition, the hiT model was 
+analyzed exclusively in female mice due to concerns over male- specific 
+autoimmune dynamics in related strains (19, 20). This rendered our 
+finding that human APP- specific CD8 T cell levels are associated 
+with AD in both males and females a critical observation.
+Reports of rodents exhibiting neurodegeneration linked to amy­
+loid and fibrillar tau pathology have been published previously, 
+most notably upon infection of mice with Porphyromonas gingivalis 
+(52). Introduction of multiple AD- associated human Aβ- related 
+transgenes into rats (AD- Tg rats) has similarly been reported to 
+produce neurodegeneration with NFT- like silver- stained neurons, 
+although this model appears more relevant to dominantly inherited 
+AD (22). Evidence of NFTs in both these models, however, was 
+extremely limited, reliant on single staining reagents, and not sta­
+tistically validated. For this reason, we sought to include one of 
+these models as a control for NFT- like structures. In our hands, 
+A
+B
+C D
+Fig. 6.   CD8 TRM biomarker potential in human Alzheimer’s. Correlation of APP(471–479)/HLA- A2- reactive KLRG1+ CD8 levels with Aβ1- 42, total- tau, and P- tau181 in 
+CSF, and with MMSE score in all AU patients combined (A), and correlation of parental KLRG+CD8+ T cells with these parameters in AU Alzheimer’s patients only 
+(note: several higher APP- specific T cell levels were in control patients that were not subjected to MMSE testing) (B). Combined variance of T RM markers, CD8A, 
+CD44, and CD103 yielded the indicated areas under the curve (AUC) in Receiver Operating Characteristic (ROC) plots of T cell- high and T cell- low samples from a 
+publicly available patient dataset (C). AUC was not significantly altered when CD103 variance was used alone in this cohort (0.781, T cell- high; 0.548, T cell- low). ROC 
+plots of APP(471–479)/HLA- A2 multimer- reactive KLRG1+ CD8 T cells in blood relative to normal aging controls, both from UA cohort (D). Mild Cognitive Impairment 
+without (MCI- normal bio) and with (MCI- AD bio) CSF biomarkers consistent with AD, and confirmed AD patients ages 57 to 84 (AD- all). AD- age- matched indicates 
+ROC analysis on 10 AD patients for whom precisely age- matched controls were available (±1 y; n = 10). P < 0.001 for all curves except MCI – normal bio (P = 0.003).
+
+=== PAGE 10 ===
+10 of 12   https://doi.org/10.1073/pnas.2401420121 pnas.org
+however, NFT- like structures failed to appear in the same AD- Tg 
+rat model under staining procedures that readily revealed NFTs in 
+hiT mice and human AD brains alike. Further, neither infection 
+nor transgenic models have offered mechanistic explanations for 
+anatomically specific disease etiology, generated pathophysiology 
+corresponding to well- defined aspects of human AD progression, 
+or demonstrated translational relevance more generally.
+In addition to mirroring gross and fine aspects of human AD, 
+hiT mice successfully predicted that CD8 TRM- marker genes and 
+Perforin protein are up- regulated in the AD brain. Similarly, the 
+model successfully predicted that APP- specific CD8 T cell levels 
+would correspond to disease status in both females and males with 
+AD and related MCI, as well as to cognitive decline in multiple 
+cohorts. Finally, observations in hiT mice led to the prediction 
+that levels of hiT cell analogues in blood would constitute uniquely 
+useful tools for the clinical management of AD, with their utility 
+for AD diagnosis particularly highlighted in this study.
+While the hiT mouse model is perhaps not the first to replicate 
+key aspects of AD via an inductive factor upstream of Aβ (39), it 
+does so without the use of transgenes not associated with the 
+human disease. More importantly, it exhibits clear translational 
+relevance to sporadic AD. As such, it helps to dispel some of the 
+confusion that surrounds the role of T cells in Alzheimer’s and 
+related neurodegenerative diseases. Critically, the hiT model repro­
+duced compelling AD- like characteristics through introduction of 
+age- related T cells and without deterministic transgenes. Functional 
+impairment of the T cells attenuated AD- like features, and their 
+analogues were uniquely associated with human AD. Thus, three 
+critical criteria for causation (disease recapitulation by agent intro­
+duction into animals, disease mitigation upon impairment of 
+agent, and preferential association of agent dynamics to human 
+disease) appear satisfied by this model. Nevertheless, the exclusive 
+use of female nude mice qualifies such a conclusion and opens the 
+possibility that additional factors associated with gender and/or 
+mouse strain genetics could also impact neurodegenerative induc­
+tion. Similarly, human AD may in fact possess multiple distinct 
+inductive events or processes. Hence, it will be critical for future 
+studies to discern the extent to which hiT cells and related events 
+contribute to AD induction and in what proportion of patients 
+they do so.
+Conservatively, however, our study reveals evidence for the exist­
+ence of a discrete and clinically useful factor upstream of Aβ that 
+may contribute to amyloid-  and tau- associated neurodegeneration. 
+Further assessment of the potential of hiT cell metrics as diagnostic 
+biomarkers for human AD nevertheless requires multicenter vali­
+dation, prospective and longitudinal analyses that include more 
+extensive non- AD dementia cohorts. It will be equally important 
+to determine whether modulation of antigen- specific hiT cell pres­
+ence or function can alter the course of AD- like neurodegeneration 
+in therapeutic studies and determine whether effective treatments 
+for AD critically modulate these cells in humans. Finally, continued 
+examination of hiT mice on multiple strain backgrounds, and har­
+boring risk factors for AD or other age- related disorders, may lead 
+to a more comprehensive understanding of age- related disease 
+biology, pathology, and immune characteristics more generally.
+Materials and Methods
+Animal Subjects. Female C57BL/6, B6.Foxn1 mice, and congenic and/or syn-
+geneic knockout strains were housed in a pathogen–free vivarium under stand-
+ard conditions on a 12- h light/12- h dark cycle. Recipient animals were 8-  to 
+10- wk- old female B6.Foxn1 mice; donors were 5-  to 8- wk- old female C57BL/6 
+or B6.CD45.1 congenic mice. Numbers of animals used per test are specified in 
+SI Appendix, Table S1.
+Adoptive Transfer of T Cells. Splenic CD8+ T cells from C57BL/6J female donors 
+(5 to 8 wk old) were purified using anti- CD8 or anti- CD4 immunobeads (Miltenyi 
+Biotech, Sunnyvale, CA). 3 × 106 purified CD8 or CD4 T cells, or 3 × 10 6 native 
+splenocytes for CD8+CD4 T cell hosts, were intravenously injected in 50 µL of PBS 
+into female B6.Foxn1 nude hosts. Cell numbers were based on prior publications 
+demonstrating homeostatic expansion at similar doses (18, 53, 54). Transfer effi-
+ciency into B6.Foxn1 hosts was validated by persistence of ≥5% CD8+, CD4+, or 
+both, T cells within splenic lymphocytes 3 wk after injection (18).
+Tissue Processing. The brain and spleen were harvested from mice and perfused 
+with saline under deep anesthesia using a ketamine and xylazine (40 to 50 mg/kg 
+i.p.) cocktail. Whole brains were weighed after removal of the cerebellum, brain-
+stem, and olfactory bulb. Right hemispheres were flash frozen at −80 °C for protein 
+studies, and homogenized. Cell lysates were separated into detergent- soluble 
+and detergent- insoluble fractions. Left hemispheres were immersion fixed in 4% 
+paraformaldehyde for 24 to 48 h and used for immunohistochemical staining.
+Antibodies for Tissue Staining and WB Analyses.  Brain sections were 
+mounted on slides and incubated at 4 °C overnight with primary antibody in block-
+ing buffer, rinsed, and incubated 90 min in fluorochrome-  or biotin- conjugated 
+secondary antibody, with or without curcumin, or with ThioS alone. Sections 
+were mounted with DAPI (Invitrogen) unless otherwise indicated, and images 
+analyzed with ImageJ (NIH). Antibodies used: anti- Aβ/APP antibody (ab14220; 
+clone 4G8\); Anti- pTau pS199/202 antibody (Invitrogen) and AT8; β- actin (clone 
+AC- 74, Sigma) due to cross- reactivity of GAPDH with IgG H chain (55); GAPDH 
+used as control for all other markers; anti- GFAP (Dako); anti- NeuN antibody 
+(Chemicon); anti- Iba1 (Wako, Ltd.); anti- CD8 (clone 53- 6.72, BD Pharmingen); 
+anti- doublecortin (DCX; polyclonal sc- 8066, Santa Cruz Biotechnology); second-
+ary antibodies (HRP , Alexa Flour- 488, - 594, - 647; Invitrogen). control HLA- A2 
+and custom APP epitope dextramers (predicted affinity < 100 nM per NetMHC 
+version 3.4 [APP(471–479)/HLA- A2], were manufactured by Immudex.
+WB for Amyloid, Tau, Neural, and Immunological Markers. Triton- soluble 
+cell lysates were electrophoresed and blotted onto 0.2 µm nitrocellulose. 
+Membranes were blocked and incubated in primary and secondary antibodies 
+1 h at room temperature with ≥3 washes between each, developed with ECL 
+(GE Healthcare Biosciences; Pittsburgh, PA), and exposed onto Hyperfilm. WBs 
+were performed a minimum of three times with comparable results per antibody. 
+Bands were quantified using ImageJ software and expressed as (% area of test 
+band)/(average % area of control bands).
+ELISA. Supernatant from homogenized brain was used for Triton- soluble Aβ. 
+Insoluble pellets from Triton- homogenized brain were resuspended in 10 
+volumes 5M guanidine HCl 4 h to generate guanidine- soluble Aβ. Triton-  and 
+guanidine- soluble samples were subjected to analysis using species-  and 
+isoform- specific antibodies in Soluble and Insoluble Aβ ELISA kits (Invitrogen, Life 
+Technologies). Absorbance was read on a SPECTRAmax Plus384 microplate reader 
+(Molecular Devices, Sunnyvale, CA) and data analyzed in Graphpad PRISM. ELISAs 
+were carried out a minimum of three times with comparable results per antibody/
+kit, with samples tested in triplicate and standard curves included on each plate.
+Flow Cytometry. Lymphocytes stained with respective antibodies were analyzed 
+by three- color flow cytometry. Flow cytometry was performed with CD8- APC, HLA- 
+A2- PerCP- Cy5.5, KLRG1- FITC antibodies (all Biolegend), and MHC A*0201- PE 
+(Immudex) dextramers on a FACSCanto flow cytometer (BD Biosciences, San 
+Jose, CA). Antibodies and multimers were incubated with whole- blood single- 
+cell suspension in PBS with 2% FBS, on ice for 30 min, washed, and analyzed. 
+FSC vs SSC was used to distinguish between lymphocytes and dead cells/debris, 
+with exclusion of cell multiplets. 100,000 to 300,000 flow events were acquired 
+and analyzed. FlowJo software was used for data analysis using identical gating 
+(shown in SI Appendix, Figs. S13 and S15A).
+Gallyas Silver Staining. Free floating brain sections were placed in 5% periodic acid 
+3 min, washed 2×, and placed in silver iodide solution 1 min, followed by incuba-
+tion in 0.5% acetic acid 5 min (2×), and rinsed with dH20. Sections were incubated 
+in developer for ~10 min until sections were pale brown/gray, stopped in 0.5% 
+acetic acid 5 min, rinsed in dH2O, and mounted. Stained sections were examined 
+by microscopy. Stained neurons were counted from CA2, and proportions within 
+total neurons visually quantified in triplicate from entorhinal and cingulate cortex.
+
+=== PAGE 11 ===
+PNAS  2024  Vol. 121  No. 29 e2401420121 https://doi.org/10.1073/pnas.2401420121 11 of 12
+Neuronal Counts.  Whole- number neuronal estimates were performed 
+using the optical fractionator method (56) with stereological software (Stereo 
+Investigator; MBF Bioscience). Paramedian sagittal serial sections spaced 50 µm 
+apart were stained with NeuN. CA1, CA2, CA3, and other regions of interest were 
+defined according to the Paxinos and Watson mouse brain atlas. A grid was placed 
+randomly over the ROI, and cells were counted within three- dimensional opti-
+cal dissectors (50 µm, 50 µm, 10 µm) using a 100× objective. Estimated totals 
+weighted by section thickness were obtained with Stereo Investigator software, 
+yielding a coefficient of error 0.10.
+Behavioral Testing: General.  Testing order was randomized by alternating 
+control and treatment group animal runs. Testing started at the same time 
+(±1.5 h) for tests run over multiple days, with early and late times alternated 
+for intergroup randomization. Testing was performed during the light phase 
+exclusively. OFT was performed preceding all other behavioral tests to rule 
+out motility effects.
+BM test. BM testing was performed a single time only, 14 mo post- cell or - control 
+injection. Mice were assessed for their ability to learn the location of an escape 
+box over the course of 9 d in the BM apparatus as previously described (57).
+Y- maze SAB. Mice were tested for SA a single time only, at 12 mo post- cell or 
+- control injection. SAB was measured by individually placing animals in one arm 
+of a symmetric Y- maze made of opaque black acrylic plastic, and the sequence of 
+arm entries and total number of entries recorded over a period of 8 min.
+Flinch- jump/FC tests. Flinch- jump/FC freezing times were determined 6 and 
+11 mo postcell or postcontrol injection. The apparatus (Freeze Monitor™) was a 
+Plexiglas box with a stainless- steel grid floor with acoustic stimulus unit on top of 
+the box, and the box ringed with photo beams and computer- linked optical sen-
+sors. On day 1, mice were presented with foot- shock associated with an auditory 
+tone. On day 2, contextual retrieval was determined by placing the mice into the 
+same test box, but without either tone or foot shocks. On day 3, cue condition-
+ing was assessed in an altered environment with delivery of the auditory tone. 
+Freezing time was recorded each day.
+RNAseq and Gene Expression Analysis.  rRNA was depleted with NEBNext® 
+rRNA Depletion Kit v2 and libraries prepared. Data were analyzed by ROSALIND® 
+(https://rosalind.bio/), with their HyperScale architecture (San Diego, CA). 
+Database sources referenced for enrichment analysis included Interpro, NCBI, 
+MSigDB, REACTOME, and WikiPathways. Enrichment was calculated relative to a 
+set of background genes relevant for the experiment.
+Human Subjects. Cohort 1: 40 control individuals (CTRL); 52 MCI patients with 
+an AD- characteristic CSF biomarker profile (MCI- AD); 36 MCI patients not dis-
+playing an AD- characteristic CSF biomarker profile (MCI); 50 sporadic AD patients 
+with an AD- characteristic CSF biomarker profile (AD). CSF samples were collected 
+at Middelheim General Hospital (Antwerp, Belgium) according to described pro-
+tocols (58). Inclusion criteria for controls: 1) no neurological or psychiatric ante-
+cedents and 2) no organic disease involving the central nervous system upon 
+extensive clinical examination. MCI patients were diagnosed applying Petersen’s 
+diagnostic criteria (59) without dementia (60). AD dementia was clinically diag-
+nosed according to NINCDS/ADRDA and IWG- 2 criteria (61).
+Cohort 2: Cognitive Testing. 29 self- referred memory clinic patients from 
+Cedars- Sinai Department of Neurosurgery clinically diagnosed as normal (n = 6),  
+MCI (n = 18), dementia (n = 3), or uncertain (n = 2; on basis of cognitive testing) 
+and were administered Montreal Cognitive Assessment (MoCA) (n = 22). HLA- 
+A2- negative patients determined by flow cytometry were excluded from analysis, 
+as were patients with ≤2.5% CD8+ cells in lymphocyte gates, or ≥20% variation 
+in any staining parameter between duplicate samples.
+Cohort 3: Brain western and IHC. Hippocampal lysates from 13 autopsy- 
+confirmed sporadic AD patients, and 5 age- matched normal controls were run 
+on WBs using anti- CD8 or anti- PRF1. Hippocampal sections from 10 autopsy- 
+confirmed sporadic AD patients, and 10 age- matched normal controls were 
+stained with anti- CD8- fluorescein plus APP(471–479)/HLA- A2- PE. HLA- A2- negative 
+samples were not excluded from western and IHC/IF analysis.
+Statistical Analysis. Power analyses for sample sizes and statistical methods 
+are detailed in SI Appendix, Supplementary Test: Detailed Materials & Methods. 
+Briefly, GraphPad Prism (version 5.0b; San Diego, CA) was used to analyze the 
+data using appropriate statistical tests when data was normally or nonnormally 
+distributed. Subject numbers and methods of reagent validation are shown in 
+SI Appendix, Table S1, and all histograms depict average ± SEM.
+Study Approval. All animal procedures were approved prior to performance by 
+the Cedars- Sinai Institutional Animal Care and Use Committee. The Cedars- Sinai 
+Institutional Review Board designated the analysis of deidentified human brain 
+specimens from UC Davis exempt from committee review. Brain specimens were col-
+lected, stored, and disseminated with prior approval by the UC Davis Medical Center 
+Institutional Review Board. Sampling for cohort 1 was approved by the Medical 
+Ethics Committee of the Hospital Network Antwerp (ZNA), Antwerp, Belgium.
+Data, Materials, and Software Availability.  RNAseq, Western blot quanti-
+tation, behavioral test data, flow cytometry data have been deposited in Open 
+Science Framework (https://doi.org/10.17605/OSF.IO/354JS) (62). Model 
+Organisms and/or the means to generate them will be made generally available 
+for research (non- commercial) use.
+ACKNOWLEDGMENTS. We gratefully acknowledge the patients and families 
+who provided tissue and blood for analysis; the Cedars- Sinai Research Institute 
+Biobehavioral Core for conducting mouse behavioral tests; Dr. Igor Antoshechkin 
+for RNAseq performance; Dr. Jeremy Sanders and Dr. Sol Katzman for guidance 
+in gene expression analysis; Ms. Hannah Schubloom and Mia Oviatt for excellent 
+administrative support and editing; and Dr. Kristina Trujillo for editing and proof-
+reading. NIH Grant (UC Davis Alzheimer’s Disease Center) P30AG10129 (L.- W.J.); 
+NIH Grant R21NSO54162 (C.J.W.); NIH Grant R21AG033394 (R.M.C.); Cedars- 
+Sinai Medical Center Biobehavioral Core (R.N.P .); Joseph Drown Foundation 
+(C.J.W.); Maxine Dunitz Neurosurgical Institute (C.J.W.); and Maxine Dunitz 
+Neurosurgical Institute (D.K.I.).
+Author affiliations: aDepartment Neurosurgery, Maxine Dunitz Neurosurgical Institute, 
+Cedars- Sinai Medical Center, Los Angeles, CA 90048; bDepartment Psychiatry & Behavioral 
+Sciences and Neuroscience Program, Graduate Division of Biological and Biomedical 
+Sciences (GDBBS), Emory University, Atlanta, GA 30322; cDepartment Biomedical & 
+Translational Sciences, Cedars- Sinai Medical Center, Los Angeles, CA 90048; dDepartment 
+of Basic Medical Sciences, College of Osteopathic Medicine of the Pacific Western University 
+of Health Sciences, Pomona, CA 91766; eDepartment Medical Pathology and Laboratory 
+Medicine, Laboratory Medicine, Medical Investigation of Neurodevelopmental Disorders 
+(M.I.N.D.) Institute, University of California, Davis, Sacramento, CA 95817; fDepartment of 
+Biomedical Sciences, Institute Born- Bunge, Laboratory of Neurochemistry and Behavior, 
+University of Antwerp, Antwerp 2610, Belgium; gDepartment of Neurology and Alzheimer 
+Research Center, University of Groningen and University Medical Center Groningen, 
+Groningen AB 9700, Netherlands; hFaculty of Medicine & Health Sciences, Department of 
+Translational Neurosciences, University of Antwerp, Antwerp 2610, Belgium; iDivision of 
+Human Nutrition and Health, Chair Group of Nutritional Biology, Wageningen University 
+& Research, Wageningen AA 6700, The Netherlands; jFaculty of Medicine and Health 
+Sciences, Vaccine and Infectious Disease Institute, Laboratory of Experimental Hematology, 
+University of Antwerp, Antwerp 2610, Belgium; kDepartment of Neurology, Memory Clinic 
+of Hospital Network Antwerp, Middelheim and Hoge Beuken, Antwerp BE- 2660, Belgium; 
+lDepartment of Chemistry & Biochemistry, University of California, Santa Cruz, CA 95064; 
+mNovAccess Global and StemVax LLC, Cleveland, OH 44023; nTranscriptome Function and 
+Technology Program, Department of Biology & Biological Engineering, California Institute 
+of Technology, Pasadena, CA 91125; oSociety for Brain Mapping & Therapeutics, World 
+Brain Mapping Foundation, Pacific Palisades, CA 90272; and pT- Neuro Pharma, Inc., 
+Albuquerque, NM 87123
+Author contributions: R.C., R.N.P., J.A.R., D.K.I., B.A.W., and C.J.W. designed research; A.P., 
+A.R., M.J., R.M.C., R.C., N.G., R.N.P., G.D., A.M., D.G., L.- W.J., D.V.D., Y.V., H.D.R., P.P.D.D., 
+D.K.I., B.A.W., and C.J.W. performed research; A.R., R.C., R.N.P., L.- W.J., Y.V., H.D.R., 
+P.P.D.D., K.L.B., D.K.I., B.A.W., and C.J.W. contributed new reagents/analytic tools; A.P., 
+A.R., M.J., R.M.C., R.C., N.G., R.N.P., G.D., A.M., H.S., D.V.D., Y.V., H.D.R., P.P.D.D., D.K.I., 
+B.A.W., and C.J.W. analyzed data; R.N.P., L.- W.J., and P.P.D.D. advised on paper framing 
+& design; J.A.R. facilitated collaborations, advised on paper framing & design; K.L.B. and 
+C.J.W. facilitated collaborations, supervised facilities and personnel; and A.P., A.R., R.C., 
+and C.J.W. wrote the paper.
+1. A. Codita, B. Winblad, A. H. Mohammed, Of mice and men: More neurobiology in dementia.  
+Curr. Opin. Psychiatry 19, 555–563 (2006).
+2. O. Wirths, S. Zampar, Neuron loss in Alzheimer’s disease: Translation in transgenic mouse models. 
+Int. J. Mol. Sci. 21, 8144 (2020).
+3. E. S. Musiek, D. A. Bennett, Aducanumab and the “post- amyloid” era of Alzheimer research? Neuron 
+109, 3045–3047 (2021).
+4. G. Chételat et al., Amyloid imaging in cognitively normal individuals, at- risk populations and 
+preclinical Alzheimer’s disease. Neuroimage Clin. 2, 356–365 (2013).
+5. J. Yao et al., Mitochondrial bioenergetic deficit precedes Alzheimer’s pathology in female mouse 
+model of Alzheimer’s disease. Proc. Natl. Acad. Sci. U.S.A. 106, 14670–14675 (2009).
+6. J. F. Arboleda- Velasquez et al., Resistance to autosomal dominant Alzheimer’s disease in an APOE3 
+Christchurch homozygote: A case report. Nat. Med. 25, 1680–1683 (2019).
+
+=== PAGE 12 ===
+12 of 12   https://doi.org/10.1073/pnas.2401420121 pnas.org
+7. M. R. Wardell, S. O. Brennan, E. D. Janus, R. Fraser, R. W. Carrell, Apolipoprotein E2- Christchurch (136 
+Arg––Ser). New variant of human apolipoprotein E in a patient with type III hyperlipoproteinemia.  
+J. Clin. Invest. 80, 483–490 (1987).
+8. D. Gate et al., Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer’s disease. 
+Nature 577, 399–404 (2020).
+9. B. Altendorfer et al., Transcriptomic profiling identifies CD8(+) T cells in the brain of aged 
+and Alzheimer’s disease transgenic mice as tissue- resident memory T cells. J. Immunol. 209, 
+1272–1285 (2022).
+10. C. Laurent et al., Hippocampal T cell infiltration promotes neuroinflammation and cognitive decline 
+in a mouse model of tauopathy. Brain 140, 184–200 (2017).
+11. M. S. Unger et al., CD8(+) T- cells infiltrate Alzheimer’s disease brains and regulate neuronal-  and 
+synapse- related gene expression in APP- PS1 transgenic mice. Brain Behav. Immun. 89, 67–86 (2020).
+12. N. Piehl et al., Cerebrospinal fluid immune dysregulation during healthy brain aging and cognitive 
+impairment. Cell 185, 5028–5039.e5013 (2022).
+13. G. K. Wilcock, M. M. Esiri, Plaques, tangles and dementia. A quantitative study. J. Neurol. Sci. 56, 
+343–356 (1982).
+14. P . V. Arriagada, J. H. Growdon, E. T. Hedley- Whyte, B. T. Hyman, Neurofibrillary tangles but not senile 
+plaques parallel duration and severity of Alzheimer’s disease. Neurology 42, 631–639 (1992).
+15. X. Chen et al., Microglia- mediated T cell infiltration drives neurodegeneration in tauopathy. Nature 
+615, 668–677 (2023).
+16. W. Su et al., CXCR6 orchestrates brain CD8(+) T cell residency and limits mouse Alzheimer’s disease 
+pathology. Nat. Immunol. 24, 1735–1747 (2023).
+17. C. J. Wheeler, Evolutionary selection of APOEɛ4 encourages increased focus on immunity in 
+Alzheimer’s disease. J. Alzheimer’s Dis. 93, 919–921 (2023).
+18. A. Panwar et al., Functional recreation of age- related CD8 T cells in young mice identifies drivers of 
+aging-  and human- specific tissue pathology. Mech. Ageing Dev. 191, 111351 (2020).
+19. B. R. Lawson et al., The role of alpha beta+ T cells and homeostatic T cell proliferation in  
+Y- chromosome- associated murine lupus. J. Immunol. 167, 2354–2360 (2001).
+20. M. G. Pitts, D. Nardo, C. M. Isom, V. J. Venditto, Autoantibody responses to apolipoprotein A- I are not 
+diet-  or sex- linked in C57BL/6 mice. Immunohorizons 4, 455–463 (2020).
+21. R. Schwab et al., Expanded CD4+ and CD8+ T cell clones in elderly humans. J. Immunol. 158, 
+4493–4499 (1997).
+22. R. M. Cohen et al., A transgenic Alzheimer rat with plaques, tau pathology, behavioral impairment, 
+oligomeric abeta, and frank neuronal loss. J. Neurosci. 33, 6245–6256 (2013).
+23. C. Reitz, L. Honig, J. P . Vonsattel, M. X. Tang, R. Mayeux, Memory performance is related to amyloid 
+and tau pathology in the hippocampus. J. Neurol. Neurosurg. Psychiatry 80, 715–721 (2009).
+24. J. D. Sluimer et al., Whole- brain atrophy rate and cognitive decline: longitudinal MR study of 
+memory clinic patients. Radiology 248, 590–598 (2008).
+25. A. Serrano- Pozo, M. P . Frosch, E. Masliah, B. T. Hyman, Neuropathological alterations in Alzheimer 
+disease. Cold Spring Harb. Perspect. Med. 1, a006189 (2011).
+26. R. J. Douglas, in “The development of hippocampal function: implications for theory and therapy” in 
+The Hippocampus: Neurophysiology and Behavior, R. L. Isaacson, K. H. Pribram, Eds. (Plenum,  
+New York, NY, 1975), vol. 2, pp. 327–361.
+27. R. J. Kirkby, A maturation factor in spontaneous alteration. Nature 215, 784 (1967).
+28. Q. L. Ma et al., Beta- amyloid oligomers induce phosphorylation of tau and inactivation of insulin 
+receptor substrate via c- Jun N- terminal kinase signaling: Suppression by omega- 3 fatty acids and 
+curcumin. J Neurosci. 29, 9078–9089 (2009).
+29. M. M. Karabeg et al., 5- HTT deficiency affects neuroplasticity and increases stress sensitivity 
+resulting in altered spatial learning performance in the Morris water maze but not in the Barnes 
+maze. PloS ONE 8, e78238 (2013).
+30. M. R. Brier et al., Tau and Abeta imaging, CSF measures, and cognition in Alzheimer’s disease.  
+Sci. Translational Med. 8, 338ra366 (2016).
+31. L. M. Wakim et al., The molecular signature of tissue resident memory CD8 T cells isolated from the 
+brain. J. Immunol. 189, 3462–3471 (2012).
+32. C. Cebrián et al., MHC- I expression renders catecholaminergic neurons susceptible to T- cell- mediated 
+degeneration. Nat. Commun. 5, 3633 (2014).
+33. K. Lin et al., MHC class I H2- Kb negatively regulates neural progenitor cell proliferation by 
+inhibiting FGFR signaling. PLoS Biol 19, e3001311 (2021).
+34. R. Mukhopadhyay et al., DAPK- ZIPK- L13a axis constitutes a negative- feedback module regulating 
+inflammatory gene expression. Mol. Cell 32, 371–382 (2008).
+35. C. Bellenguez et al., New insights into the genetic etiology of Alzheimer’s disease and related 
+dementias. Nat. Genet. 54, 412–436 (2022).
+36. N. Ciesielska et al., Is the Montreal Cognitive Assessment (MoCA) test better suited than the  
+Mini- Mental State Examination (MMSE) in mild cognitive impairment (MCI) detection among 
+people aged over 60? Meta- analysis. Psychiatr. Pol. 50, 1039–1052 (2016).
+37. S. Palmqvist et al., Discriminative accuracy of plasma phospho- tau217 for Alzheimer disease vs 
+other neurodegenerative disorders. JAMA 324, 772–781 (2020).
+38. C. Schwab, M. Hosokawa, P . L. McGeer, Transgenic mice overexpressing amyloid beta protein are an 
+incomplete model of Alzheimer disease. Exp. Neurol. 188, 52–64 (2004).
+39. S. Capsoni et al., Alzheimer- like neurodegeneration in aged antinerve growth factor transgenic 
+mice. Proc. Natl. Acad. Sci. U.S.A. 97, 6826–6831 (2000).
+40. S. E. Stepp et al., Perforin gene defects in familial hemophagocytic lymphohistiocytosis. Science 
+286, 1957–1959 (1999).
+41. T. C. Browne et al., IFN- gamma Production by amyloid beta- specific Th1 cells promotes microglial 
+activation and increases plaque burden in a mouse model of Alzheimer’s disease. J. Immunol. 190, 
+2241–2251 (2013).
+42. G. Jacquemin et al., Granzyme B- induced mitochondrial ROS are required for apoptosis. Cell Death 
+Differ. 22, 862–874 (2015).
+43. D. Martinvalet, ROS signaling during granzyme B- mediated apoptosis. Mol. Cell Oncol. 2, e992639 
+(2015).
+44. E. Lana et al., Perforin promotes amyloid beta internalisation in neurons. Mol. Neurobiol. 54, 
+874–887 (2017).
+45. D. Sredni- Kenigsbuch, TH1/TH2 cytokines in the central nervous system. Int. J. Neurosci. 112, 
+665–703 (2002).
+46. D. Ferreira, A. Nordberg, E. Westman, Biological subtypes of Alzheimer disease: A systematic review 
+and meta- analysis. Neurology 94, 436–448 (2020).
+47. P . Theofilas, S. Dunlop, H. Heinsen, L. T. Grinberg, Turning on the light within: Subcortical nuclei 
+of the isodentritic core and their role in Alzheimer’s disease pathogenesis. J. Alzheimer’s Dis. 46, 
+17–34 (2015).
+48. S. H. Choi, R. E. Tanzi, Is Alzheimer’s disease a neurogenesis disorder? Cell stem. cell 25, 7–8 
+(2019).
+49. W. A. Banks, S. M. Robinson, S. Verma, J. E. Morley, Efflux of human and mouse amyloid beta 
+proteins 1–40 and 1–42 from brain: Impairment in a mouse model of Alzheimer’s disease. 
+Neuroscience 121, 487–492 (2003).
+50. R. W. Shin et al., Amyloid beta- protein (Abeta) 1–40 but not Abeta1- 42 contributes to the 
+experimental formation of Alzheimer disease amyloid fibrils in rat brain. J. Neurosci. 17, 
+8187–8193 (1997).
+51. T. Uchihara, M. Hara, A. Nakamura, K. Hirokawa, Tangle evolution linked to differential 3-  and 
+4- repeat tau isoform deposition: A double immunofluorolabeling study using two monoclonal 
+antibodies. Histochem. Cell Biol. 137, 261–267 (2012).
+52. V. Ilievski et al., Chronic oral application of a periodontal pathogen results in brain inflammation, 
+neurodegeneration and amyloid beta production in wild type mice. PloS ONE 13, e0204941 (2018).
+53. B. Rocha, N. Dautigny, P . Pereira, Peripheral T lymphocytes: Expansion potential and homeostatic 
+regulation of pool sizes and CD4/CD8 ratios in vivo. Eur. J. Immunol. 19, 905–911 (1989).
+54. B. Ernst, D. S. Lee, J. M. Chang, J. Sprent, C. D. Surh, The peptide ligands mediating positive 
+selection in the thymus control T cell survival and homeostatic proliferation in the periphery. 
+Immunity 11, 173–181 (1999).
+55. F. R. Petry et al., Specificity of anti- tau antibodies when analyzing mice models of Alzheimer’s 
+disease: Problems and solutions. PloS ONE 9, e94251 (2014).
+56. M. J. West, L. Slomianka, H. J. G. Gundersen, Unbiased stereological estimation of the total number 
+of neurons in the subdivisions of the rat hippocampus using the optical fractionator. Anat. Rec. 231, 
+482–497 (1991).
+57. M. W. Pitts, Barnes maze procedure for spatial learning and memory in mice. Bio- Protocol 8, e2744 
+(2018).
+58. S. Engelborghs et al., Diagnostic performance of a CSF- biomarker panel in autopsy- confirmed 
+dementia. Neurobiol. Aging 29, 1143–1159 (2008).
+59. R. C. Petersen, Mild cognitive impairment as a diagnostic entity. J. Inter. Med. 256, 183–194 (2004).
+60. G. M. McKhann et al., The diagnosis of dementia due to Alzheimer’s disease: Recommendations 
+from the National Institute on Aging- Alzheimer’s Association workgroups on diagnostic guidelines 
+for Alzheimer’s disease. Alzheimer’s Dementia 7, 263–269 (2011).
+61. B. Dubois et al., Advancing research diagnostic criteria for Alzheimer’s disease: The IWG- 2 criteria. 
+Lancet Neurol. 13, 614–629 (2014).
+62. A. Panwar et al., Panwar, Rentsendorj, Jhun et al., PNAS 2024. Open Science Framework. http://doi.
+org/10.17605/OSF.IO/354JS. Deposited 8 May 2024.
+
